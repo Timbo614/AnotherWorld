@@ -16,7 +16,7 @@ object FormMain: TFormMain
   object Label1: TLabel
     Left = 220
     Top = 136
-    Width = 166
+    Width = 150
     Height = 19
     Caption = 'Hello Another Edit'
     Font.Charset = DEFAULT_CHARSET
@@ -24,6 +24,19 @@ object FormMain: TFormMain
     Font.Height = -16
     Font.Name = 'Tahoma'
     Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 268
+    Top = 180
+    Width = 51
+    Height = 13
+    Caption = 'Update 2'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold, fsItalic]
     ParentFont = False
   end
   object Button1: TButton
