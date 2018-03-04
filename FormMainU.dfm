@@ -18,7 +18,7 @@ object FormMain: TFormMain
     Top = 136
     Width = 166
     Height = 19
-    Caption = 'Hello Another World'
+    Caption = 'Hello Another Edit'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -16
